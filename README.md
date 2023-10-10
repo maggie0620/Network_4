@@ -11,4 +11,4 @@ Propose the algorithms with pseudocode doing:
 
 (2) Run DFS with adjacency list structure
 
-* Hint: BFS in favored with adjacency list structure ; DFS is favored with adjacency matrix structure
+*Hint: BFS in favored with adjacency list structure ; DFS is favored with adjacency matrix structure
